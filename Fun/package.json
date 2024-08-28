@@ -1,0 +1,19 @@
+{
+  "name": "backend-web-dev",
+  "version": "1.0.0",
+  "description": "basic backend app to deploy",
+  "main": "new.js",
+  "scripts": {
+    "start": "node new.js"
+  },
+  "keywords": [
+    "node",
+    "backend"
+  ],
+  "author": "Hanzala Tahir",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
